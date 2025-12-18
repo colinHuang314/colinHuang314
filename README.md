@@ -3,14 +3,11 @@
 
 ###
 
-<p align="left">I'm ... from ....
+<p align="left">📖 I'm a student at UCSC studying Computer Science: Computer Game Design.
   
+📚 I'm interested in games and AI.
 
-🔭 I’m working as ...
-
-📚 I'm currently learning ...
-
-⚡ In my free time I ...
+⚡ In my free time, I rock climb and have recently been trying to get a sub-20-second Rubik's Cube solve.
 
 
 ###
