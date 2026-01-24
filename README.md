@@ -7,7 +7,7 @@
   
 📚 I'm interested in games and AI.
 
-⚡ In my free time, I rock climb and have recently been trying to get a sub-20-second Rubik's Cube solve.
+⚡ In my free time, I rock climb and play piano.
 
 
 ###
