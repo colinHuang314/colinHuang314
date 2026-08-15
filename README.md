@@ -7,7 +7,7 @@
   
 📚 I'm interested in games and AI.
 
-⚡ In my free time, I rock climb and play piano.
+⚡ In my free time, I rock climb, speedcube, and play piano.
 
 
 ###
